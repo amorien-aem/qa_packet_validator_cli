@@ -1,0 +1,8 @@
+Flask
+PyMuPDF
+openpyxl
+matplotlib
+argparse
+Workbook
+Font
+fitz
